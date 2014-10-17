@@ -1,4 +1,4 @@
 erlang_boilerplate
 ==================
 
-An erlang boilerplate
+An erlang project boilerplate
