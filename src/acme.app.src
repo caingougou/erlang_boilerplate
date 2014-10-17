@@ -1,0 +1,12 @@
+{application, acme, [
+    {description, "Acme"},
+    {vsn, "0.0.1"},
+    {modules, []},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib
+    ]},
+    {mod, {acme_app, []}},
+    {env, []}
+]}.
